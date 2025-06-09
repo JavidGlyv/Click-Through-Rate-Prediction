@@ -1,0 +1,8 @@
+kaggle.json
+__ipnb_checkpoints/
+.conda
+__pycache__
+/avazu-ctr-prediction/
+/catboost_info/
+.DS_Store
+submission.csv
